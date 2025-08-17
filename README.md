@@ -1,6 +1,6 @@
 # Mandelbrot Fractal Zoom Explorer
 
-<video src="examples/zoom_demo.mp4" controls width="100%"></video>
+<img src="examples/zoom_demo.gif" alt="Zoom Demo" width="100%" style="max-width: 600px;">
 
 ## Features
 - 60-level smooth zoom (30,000x magnification)
